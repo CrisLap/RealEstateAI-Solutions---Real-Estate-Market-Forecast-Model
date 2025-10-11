@@ -40,7 +40,7 @@ This Jupyter Notebook provides a comprehensive analysis and predictive modeling 
      ```
 2. Open the Jupyter Notebook:
      ```bash
-     jupyter notebook
+     RealEstateAI_Solutions
      ```
 3. Run the cells sequentially to reproduce the analysis and results.
 
