@@ -5,6 +5,8 @@ This Jupyter Notebook provides a comprehensive analysis and predictive modeling 
 
 ## Features
 - **Exploratory Data Analysis (EDA):**
+    - Univariate and multivariate analysis
+    - Staistics test
     - Outlier detection using IQR and Z-score methods.
     - Multicollinearity analysis using correlation matrices and Variance Inflation Factor (VIF).
 - **Preprocessing:**
